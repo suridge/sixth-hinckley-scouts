@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "6th Hinckley Scouts",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -51,13 +51,19 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 46,
     "versionPublish": "4.7.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "6th Hinckley Scouts",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -302,11 +308,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-size: 1.09rem; font-style: normal;\">All this is only possible thanks to our adult volunteers. They support our Scouts in a wide range of roles from working directly with young people, to helping manage a Group, to being a charity Trustee. We help volunteers get the most out of their experiences at Scouts by providing opportunities for adventure, training, fun and friendship.</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">Parents, carers, grandparents, aunt and uncles can volunteer and help in many ways; you don’t have to be a regular Bear Grylls. You might have first aid knowledge that you could teach the group, or you might be able to teach our Scouts a thing or two about DIY.</span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">If you’re good with accounts you could be Group treasurer, or if you’re a culinary whizz you could run cooking sessions with the young people. Everyone has a skill (whether you know it or not) and we can make use of it.</span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">Use the form below to </span><span style=\"font-size: 1.09rem; font-style: normal;\"><a href=\"index.html#form1-i\">contact us</a></span><span style=\"font-size: 1.09rem; font-style: normal;\"> to discuss volunteering opportunites in our group.</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qTLtkxLTy2",
+          "_anchor": "content2-18",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-18"
+          "_params": {}
         },
         {
           "_styles": {
@@ -369,11 +375,11 @@
           "_name": "map1",
           "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJS5UJYpBad0gRmyAb_csX0Tk\" value=\"st francis community centre, LE10\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_cid": "qTLwJEuaei",
+          "_anchor": "map1-19",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "map1-19"
+          "_params": {}
         },
         {
           "_styles": {
